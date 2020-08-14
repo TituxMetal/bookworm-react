@@ -18,7 +18,7 @@
     "redux-devtools-extension": "^2.13.2",
     "redux-thunk": "^2.3.0",
     "reselect": "^3.0.1",
-    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.81.3",
     "validator": "^8.1.0"
   },
